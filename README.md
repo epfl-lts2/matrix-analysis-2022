@@ -55,7 +55,7 @@ Every time you want to work, do the following:
 [miniconda]: https://conda.io/miniconda.html
 [conda]: https://conda.io
 [conda-forge]: https://conda-forge.org
-[test_install]: https://nbviewer.jupyter.org/github/epfl-lts2/matrix-analysis-2022/blob/outputs/test_install.ipynb
+[test_install]: https://nbviewer.org/github/epfl-lts2/matrix-analysis-2022/blob/master/test_install.ipynb
 
 ## Team
 
