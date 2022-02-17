@@ -1,4 +1,4 @@
-name: matrix_analysis_2022
+name: matrix-analysis-2022
 channels:
   - defaults
 dependencies:
@@ -140,4 +140,4 @@ dependencies:
   - zipp=3.7.0
   - zlib=1.2.11
   - zstd=1.4.9
-prefix: /Users/naspert/opt/miniconda3/envs/matrix_analysis_2022
+
