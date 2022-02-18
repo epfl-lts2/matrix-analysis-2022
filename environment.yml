@@ -3,7 +3,6 @@ channels:
   - defaults
 dependencies:
   - anyio=3.5.0
-  - appnope=0.1.2
   - argon2-cffi=21.3.0
   - argon2-cffi-bindings=21.2.0
   - async_generator=1.10
@@ -60,7 +59,6 @@ dependencies:
   - libedit=3.1.20210910
   - libev=4.33
   - libffi=3.3
-  - libgfortran=3.0.1
   - libiconv=1.16
   - libnghttp2=1.46.0
   - libpng=1.6.37
@@ -70,7 +68,6 @@ dependencies:
   - libwebp=1.2.0
   - libwebp-base=1.2.0
   - libxml2=2.9.12
-  - llvm-openmp=12.0.0
   - lz4-c=1.9.3
   - markupsafe=2.0.1
   - matplotlib-base=3.5.0
