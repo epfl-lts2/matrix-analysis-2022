@@ -57,6 +57,15 @@ Every time you want to work, do the following:
 [conda-forge]: https://conda-forge.org
 [test_install]: https://nbviewer.org/github/epfl-lts2/matrix-analysis-2022/blob/master/test_install.ipynb
 
+### Binder/Colab...
+You can also run those notebooks using other online services such as [binder](https://mybinder.org) or [Google colab](https://colab.research.google.com/).
+
+Clicking on one of the badges below will open this repository in binder/colab.
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/epfl-lts2/matrix-analysis-2022/HEAD)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/epfl-lts2/matrix-analysis-2022/)
+
+
 ## Team
 
 * Lecturer:
