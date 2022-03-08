@@ -1,6 +1,7 @@
 name: matrix-analysis-2022
 channels:
   - defaults
+  - conda-forge
 dependencies:
   - anyio=3.5.0
   - argon2-cffi=21.3.0
