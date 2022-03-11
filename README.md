@@ -47,6 +47,9 @@ Every time you want to work, do the following:
 1. Edit and run the notebooks from your browser.
 1. Once done, you can run `conda deactivate` to leave the `matrix-analysis-2022` environment.
 
+#### Update: 
+It seems Windows has trouble with miniconda. One alternative is to use the Windows Subsystem for Linux (WSL) which allows you to run all Linux commands and applications within Windows. In order to use it, you need to install it first, e.g. for [Ubuntu](https://ubuntu.com/wsl) (but other Linux distributions are available as well). Once installed, open the Ubuntu WSL and proceed with Miniconda installation and create the environment.
+
 
 [git]: https://git-scm.com
 [python]: https://www.python.org
